@@ -1,6 +1,6 @@
 # Streamlit-Pokemon-Fight
 
-## We make a selection of Pokemon
+We make a selection of Pokemon
 ![195982702-d0075b44-f9a3-4783-9005-a0e3135e5c41](https://user-images.githubusercontent.com/97463861/195985861-58d83010-154c-4639-8946-f9d0db24d24e.jpeg)
 
 We hit the battle button
